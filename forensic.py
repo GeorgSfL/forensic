@@ -12,5 +12,5 @@ for thief in suspects:
         if x not in dna:
             arrest = False
             break
-        if thief is True:
+    else:
             print(thief)
